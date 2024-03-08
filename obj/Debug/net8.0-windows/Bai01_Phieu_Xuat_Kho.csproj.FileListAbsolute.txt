@@ -1,0 +1,16 @@
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\bin\Debug\net8.0-windows\Bai01_Phieu_Xuat_Kho.exe
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\bin\Debug\net8.0-windows\Bai01_Phieu_Xuat_Kho.deps.json
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\bin\Debug\net8.0-windows\Bai01_Phieu_Xuat_Kho.runtimeconfig.json
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\bin\Debug\net8.0-windows\Bai01_Phieu_Xuat_Kho.dll
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\bin\Debug\net8.0-windows\Bai01_Phieu_Xuat_Kho.pdb
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\obj\Debug\net8.0-windows\Bai01_Phieu_Xuat_Kho.Form1.resources
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\obj\Debug\net8.0-windows\Bai01_Phieu_Xuat_Kho.csproj.GenerateResource.cache
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\obj\Debug\net8.0-windows\Bai01_Phieu_Xuat_Kho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\obj\Debug\net8.0-windows\Bai01_Phieu_Xuat_Kho.AssemblyInfoInputs.cache
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\obj\Debug\net8.0-windows\Bai01_Phieu_Xuat_Kho.AssemblyInfo.cs
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\obj\Debug\net8.0-windows\Bai01_Phieu_Xuat_Kho.csproj.CoreCompileInputs.cache
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\obj\Debug\net8.0-windows\Bai01_Phieu_Xuat_Kho.dll
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\obj\Debug\net8.0-windows\refint\Bai01_Phieu_Xuat_Kho.dll
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\obj\Debug\net8.0-windows\Bai01_Phieu_Xuat_Kho.pdb
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\obj\Debug\net8.0-windows\Bai01_Phieu_Xuat_Kho.genruntimeconfig.cache
+C:\Users\bechj\OneDrive\second_semester_dec_2023_2024\XML_LEARN\visual_microsoft_code\repos\Bai01_Phieu_Xuat_Kho\obj\Debug\net8.0-windows\ref\Bai01_Phieu_Xuat_Kho.dll

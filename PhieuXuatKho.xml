@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Nhập DTD -->
+<!-- <!DOCTYPE PhieuXuatKho[
+<!ELEMENT PhieuXuatKho (DonVi, BoPhan, NgayThangNam, So, HovaTenNguoiNhanHang, DiaChi_BoPhan, LyDoXuatKho, XuatTaiKho, DiaDiem,DanhSach,TongSoTien,SoChungTuGocKemTheo,NgayThangNam2, NguoiLapPhieu,NguoiNhanHang, ThuKho,KeToanTruong,GiamDoc)>
+<!ELEMENT DonVi (#PCDATA)>
+<!ELEMENT BoPhan (#PCDATA)>
+<!ELEMENT NgayThangNam (#PCDATA)>
+<!ELEMENT So (#PCDATA)>
+<!ELEMENT HovaTenNguoiNhanHang (#PCDATA)>
+<!ELEMENT DiaChi_BoPhan (#PCDATA)>
+<!ELEMENT LyDoXuatKho (#PCDATA)>
+<!ELEMENT XuatTaiKho (#PCDATA)>
+<!ELEMENT DiaDiem (#PCDATA)>
+<!ELEMENT DanhSach (SanPhamHangHoa*)>
+<!ELEMENT SanPhamHangHoa (STT,TenHang,MaSo,DonViTinh,SoLuong,DonGia,ThanhTien)>
+<!ELEMENT STT (#PCDATA)>
+<!ELEMENT TenHang (#PCDATA)>
+<!ELEMENT MaSo (#PCDATA)>
+<!ELEMENT DonViTinh (#PCDATA)>
+<!ELEMENT SoLuong (YeuCau,ThucXuat)>
+<!ELEMENT DonGia (#PCDATA)>
+<!ELEMENT ThanhTien (#PCDATA)>
+<!ELEMENT YeuCau (#PCDATA)>
+<!ELEMENT ThucXuat (#PCDATA)>
+<!ELEMENT TongSoTien (#PCDATA)>
+<!ELEMENT SoChungTuGocKemTheo (#PCDATA)>
+<!ELEMENT NgayThangNam2 (#PCDATA)>
+<!ELEMENT NguoiLapPhieu (#PCDATA)>
+<!ELEMENT NguoiNhanHang (#PCDATA)>
+<!ELEMENT ThuKho (#PCDATA)>
+<!ELEMENT KeToanTruong (#PCDATA)>
+<!ELEMENT GiamDoc (#PCDATA)>
+]> -->
+
+<!-- Nhập XSD -->
+<!-- <PhieuXuatKho  xsi:schemaLocation="http://tempuri.org/XMLSchema.xsd PhieuXuatKho.xsd"
+xmlns="http://tempuri.org/XMLSchema.xsd"
+xmlns:xs="http://www.w3.org/2001/XMLSchema"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> -->
+<PhieuXuatKho DonVi="ICTU" BoPhan="KTPM" NgayThangNam="01/01/2019" So="N01">
+    <HovaTenNguoiNhanHang>Triệu Hoàng Đức</HovaTenNguoiNhanHang>
+    <DiaChi_BoPhan>Pho Yen</DiaChi_BoPhan>
+    <LyDoXuatKho>Full of Stock</LyDoXuatKho>
+    <XuatTaiKho>Pho Yen Thai Nguyen</XuatTaiKho>
+    <DiaDiem>ICTU</DiaDiem>
+    <DanhSach>
+        <SanPhamHangHoa>
+            <STT>1</STT>
+            <TenHang>Uniform</TenHang>
+            <MaSo>255667</MaSo>
+            <DonViTinh>Thùng</DonViTinh>
+         
+                <YeuCau>99</YeuCau>
+                <ThucXuat>222</ThucXuat>
+     
+            <DonGia>67.99</DonGia>
+            <ThanhTien>200</ThanhTien>
+        </SanPhamHangHoa>
+        <SanPhamHangHoa>
+			<STT>2</STT>
+			<TenHang>Virus</TenHang>
+			<MaSo>255667</MaSo>
+			<DonViTinh>Thùng</DonViTinh>
+			
+				<YeuCau>99</YeuCau>
+				<ThucXuat>222</ThucXuat>
+		
+			<DonGia>67.99</DonGia>
+			<ThanhTien>200</ThanhTien>
+        </SanPhamHangHoa>
+        <SanPhamHangHoa>
+			<STT>3</STT>
+			<TenHang>Dark Shield</TenHang>
+			<MaSo>255667</MaSo>
+			<DonViTinh>Thùng</DonViTinh>
+			
+				<YeuCau>99</YeuCau>
+				<ThucXuat>222</ThucXuat>
+			<DonGia>67.99</DonGia>
+			<ThanhTien>200</ThanhTien>
+        </SanPhamHangHoa>
+        <SanPhamHangHoa>
+			<STT>4</STT>
+			<TenHang>Dragon Ball</TenHang>
+			<MaSo>255667</MaSo>
+			<DonViTinh>Thùng</DonViTinh>
+		
+				<YeuCau>99</YeuCau>
+				<ThucXuat>222</ThucXuat>
+	
+			<DonGia>67.99</DonGia>
+			<ThanhTien>200</ThanhTien>
+        </SanPhamHangHoa>
+        <SanPhamHangHoa>
+			<STT>5</STT>
+			<TenHang>Healing Potion</TenHang>
+			<MaSo>255667</MaSo>
+			<DonViTinh>Thùng</DonViTinh>
+			
+				<YeuCau>99</YeuCau>
+				<ThucXuat>222</ThucXuat>
+			
+			<DonGia>67.99</DonGia>
+			<ThanhTien>200</ThanhTien>
+        </SanPhamHangHoa>
+    </DanhSach>
+    <TongSoTien>Năm Tỷ</TongSoTien>
+    <SoChungTuGocKemTheo>Không có</SoChungTuGocKemTheo>
+    <NgayThangNam2>01/01/2019</NgayThangNam2>
+    <NguoiLapPhieu>Bế Chí Kiên</NguoiLapPhieu>
+    <NguoiNhanHang>Triệu Hoàng Đức</NguoiNhanHang>
+    <ThuKho>Trần Văn Hải</ThuKho>
+    <KeToanTruong>Phạm Quang Minh</KeToanTruong>
+    <GiamDoc>Trần Nguyên Bình</GiamDoc>
+</PhieuXuatKho>
+  

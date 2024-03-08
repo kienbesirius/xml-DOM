@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema targetNamespace="http://tempuri.org/XMLSchema.xsd"
+    
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+<xs:element name="PhieuXuatKho">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="DonVi" type="xs:string"/>
+        <xs:element name="BoPhan" type="xs:string"/>
+        <xs:element name="NgayThangNam" type="xs:string"/>
+        <xs:element name="So" type="xs:string"/>
+        <xs:element name="HovaTenNguoiNhanHang" type="xs:string"/>
+        <xs:element name="DiaChi_BoPhan" type="xs:string"/>
+        <xs:element name="LyDoXuatKho" type="xs:string"/>
+        <xs:element name="XuatTaiKho" type="xs:string"/>
+        <xs:element name="DiaDiem" type="xs:string"/>
+        <xs:element name="DanhSach">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SanPhamHangHoa" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="STT" type="xs:string"/>
+                    <xs:element name="TenHang" type="xs:string"/>
+                    <xs:element name="MaSo" type="xs:string"/>
+                    <xs:element name="DonViTinh" type="xs:string"/>
+                    <xs:element name="SoLuong">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="YeuCau" type="xs:string"/>
+                          <xs:element name="ThucXuat" type="xs:string"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="DonGia" type="xs:string"/>
+                    <xs:element name="ThanhTien" type="xs:string"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TongSoTien" type="xs:string"/>
+        <xs:element name="SoChungTuGocKemTheo" type="xs:string"/>
+        <xs:element name="NgayThangNam2" type="xs:string"/>
+        <xs:element name="NguoiLapPhieu" type="xs:string"/>
+        <xs:element name="NguoiNhanHang" type="xs:string"/>
+        <xs:element name="ThuKho" type="xs:string"/>
+        <xs:element name="KeToanTruong" type="xs:string"/>
+        <xs:element name="GiamDoc" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
